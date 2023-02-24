@@ -12,6 +12,6 @@ ToastNotificationManagerCompat.History.Clear();
 new ToastContentBuilder()
     .AddArgument("action", "viewConversation")
     .AddArgument("conversationId", 9813)
-    .AddText("オーディオ出力先を変更")
+    .AddText("Output audio device")
     .AddText(String.Format("{0}", result))
     .Show();
