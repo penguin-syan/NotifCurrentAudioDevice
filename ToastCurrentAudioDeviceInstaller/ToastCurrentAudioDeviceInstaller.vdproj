@@ -199,7 +199,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:ToastCurrentAudioDeviceInstaller"
         "ProductCode" = "8:{CAB868CD-22FC-4F46-B6A8-118BADBA91B9}"
-        "PackageCode" = "8:{0EF519D8-F94D-4789-98C4-385C2A6B66CA}"
+        "PackageCode" = "8:{A2F4F6BF-381E-471A-A95D-D404E8741019}"
         "UpgradeCode" = "8:{4E6F3747-FC0B-492A-BC43-959219E32E52}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"

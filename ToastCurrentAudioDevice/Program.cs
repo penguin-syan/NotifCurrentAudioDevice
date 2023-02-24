@@ -15,3 +15,7 @@ new ToastContentBuilder()
     .AddText("Output audio device")
     .AddText(String.Format("{0}", result))
     .Show();
+
+// 不要なアプリ通知が残らない様に一定時間後に通知履歴を削除
+Thread.Sleep(3000);
+ToastNotificationManagerCompat.History.Clear();
