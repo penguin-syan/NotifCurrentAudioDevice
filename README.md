@@ -7,7 +7,7 @@ I hypothesize using this app with gaming software like "Logitech G Hub".
 Download from [GitHub](https://github.com/penguin-syan/NotifCurrentAudioDevice/releases) and install* to your computer.  
 After that, you should set changing output audio device and running this software.  
 
-* When you use this software, you should install also [.NET 7.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer?cid=getdotnetcore)
+*When you use this software, you should install also [.NET 7.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer?cid=getdotnetcore)
 
 ## Uninstall
 Run the uninstaller from the control panel.
